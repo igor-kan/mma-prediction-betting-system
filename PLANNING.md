@@ -9,9 +9,11 @@ Maintain a clear execution roadmap for **mma-prediction-betting-system** based o
 
 ## Current Baseline
 - Stack: Python
-- Codebase scan size: 48 files (capped)
+- Codebase scan size: 49 files (capped)
 - Test signal: Test-named files detected
 - CI workflows present: Yes
+- GitHub Remote: igor-kan/mma-prediction-betting-system
+- GitHub Last Push: 2026-04-21T21:09:02Z
 
 ## Milestones
 1. Stabilize

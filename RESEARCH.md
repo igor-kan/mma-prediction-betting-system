@@ -7,6 +7,7 @@ Repository: `mma-prediction-betting-system`
 ## Focus Areas
 - Domain keywords: mma prediction betting system
 - Technology stack: Python
+- Upstream repository context: igor-kan/mma-prediction-betting-system
 
 ## Open Questions
 - Which modules in `mma-prediction-betting-system` represent the highest reliability risk?
@@ -19,10 +20,21 @@ Repository: `mma-prediction-betting-system`
 - [ ] Document known limitations and mitigation strategies.
 
 ## Codebase Signals
-- Files scanned (capped): 48
+- Files scanned (capped): 49
 - Common extensions: .py, .md, .sh, [no_ext], .txt, .json, .html
 - Test signal: Test-named files detected
 - CI workflows present: Yes
+
+## Web Research Signals
+- Origin Remote: `https://github.com/igor-kan/mma-prediction-betting-system.git`
+- GitHub Slug: `igor-kan/mma-prediction-betting-system`
+- GitHub Description: Not available
+- GitHub Homepage: Not set
+- GitHub Topics: None detected
+- GitHub Last Push Timestamp: 2026-04-21T21:09:02Z
+
+## Official Stack References
+- `Python: https://docs.python.org/3/`
 
 ## Evidence Log
 - Keep references to benchmark runs, incident notes, dependency advisories, and design decisions here.
